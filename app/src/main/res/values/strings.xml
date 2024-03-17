@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FoddApp</string>
+    <string name="select_food">Select Food</string>
+    <string name="add">ADD</string>
+    <string name="selected_foods">Selected Foods</string>
+    <string name="profile">PROFILE</string>
+    <string name="log">LOG</string>
+    <string name="meals">MEALS</string>
+</resources>
