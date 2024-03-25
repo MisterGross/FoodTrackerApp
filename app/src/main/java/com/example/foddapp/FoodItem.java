@@ -1,3 +1,5 @@
+package com.example.foddapp;
+
 public class FoodItem {
     private String name;
     private int quantity;
